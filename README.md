@@ -21,11 +21,13 @@
 **Software Engineer** / Sept. 2019 – May 2022
 
 *Production Infrastructure*
+
 Worked (Oct. 2021-May 2022) in the Production Infrastructure group.
 - Wrote software to deploy software artifacts to air-gapped networks
 - Wrote software to orchestrate software deployment to Kubernetes clusters under security constraints
 
 *Foundry Code Workbooks*
+
 Worked (Sept. 2019-Oct. 2021) in the Foundry Analytics group on a coding environment for data scientists. Projects included:
 - Optimizing the product’s distributed Spark execution framework
 - Implementing Git-style merge functions on software objects
