@@ -1,5 +1,5 @@
-# Resumé
-**J Maunsell** • they/them/theirs • Brooklyn, NY • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103/) • [Twitter](https://twitter.com/jcmaunsell) • [Resume](https://jcmaunsell.github.io/resume.html)
+# J Maunsell
+they/them/theirs • Brooklyn, NY • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103/) • [Twitter](https://twitter.com/jcmaunsell) • [Resume](https://jcmaunsell.github.io/resume.html)
 
 ## Goals
 - Design robust backend architecture that enables empathetic user workflows
@@ -13,4 +13,3 @@
 - Compilers and code execution infrastructure
 - Systems design including distributed networks and operating systems
 - Building approachable user workflows with clean visual design
-
