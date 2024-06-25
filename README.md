@@ -1,5 +1,5 @@
-# J Maunsell
-they/them/theirs • Brooklyn, NY • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103/) • [Twitter](https://twitter.com/jcmaunsell) • [Resume](https://jcmaunsell.github.io/resume.html)
+# James Maunsell
+New York • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103/) • [Twitter](https://twitter.com/jcmaunsell) • [Resume](https://jcmaunsell.github.io/resume.html)
 
 ## Goals
 - Design robust backend architecture that enables empathetic user workflows
